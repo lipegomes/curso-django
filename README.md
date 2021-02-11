@@ -1,4 +1,4 @@
-# curso-django
+# curso-django-pythonpro
 
 [![Build Status](https://travis-ci.com/lipegomes/curso-django.svg?branch=main)](https://travis-ci.com/lipegomes/curso-django)
 [![Updates](https://pyup.io/repos/github/lipegomes/curso-django/shield.svg)](https://pyup.io/repos/github/lipegomes/curso-django/)
