@@ -10,15 +10,26 @@ Abordado a  construção de projetos utilizando o Framework Django para python n
 
 ## Requerimentos:
 - Ter a versão 3.xx do python instalada no notebook ou pc.
-- Criar o ambiente virtual na pasta do projeto e instalar os requirements:
+- Ter o pipenv instalado.
 ```console
-pipenv install
-source .venv/bin/activate
+pip install pipenv
+```
+- Criar o ambiente virtual na pasta do projeto e instalar os requirements:
+
+Criar o .venv, instalar as dependências e ativar o shell do ambiente virtual:
+```console
+pipenv sync
+pipenv shell
+```
+Instalar somente as dependências de desenvolvimento:
+```console
+pipenv sync -d
 ```
 ## Verificar qualidade de código:
 ```console
 flake8
 ```
+
 ## Ferramentas utilizadas:
 1. [Git](https://git-scm.com/)
 2. [Pipenv](https://pipenv.pypa.io/en/latest/)
