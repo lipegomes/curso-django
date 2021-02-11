@@ -9,6 +9,9 @@ Código desenvolvido durante o módulo de Django do Bootcamp DevPro.
 
 Abordado a  construção de projetos utilizando o Framework Django para python no back-end e front-end.
 
+## Aplicação disponível em:
+https://pythonprodjangofgomes.herokuapp.com/
+
 ## Requerimentos:
 - Ter a versão 3.xx do python instalada no notebook ou pc.
 - Ter o pipenv instalado.
