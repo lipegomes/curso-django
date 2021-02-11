@@ -41,6 +41,7 @@ flake8
 8. [Codecov](https://codecov.io/)
 9. [Pytest-Mock](https://github.com/pytest-dev/pytest-mock/)
 10. [Django](https://www.djangoproject.com/)
+11. [Heroku](https://devcenter.heroku.com/articles/heroku-cli#download-and-install)
 
 ## Licença
 
