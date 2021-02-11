@@ -6,6 +6,7 @@
 [![codecov](https://codecov.io/gh/lipegomes/curso-django/branch/main/graph/badge.svg?token=CBWMUTYMRY)](https://codecov.io/gh/lipegomes/curso-django)
 
 Código desenvolvido durante o módulo de Django do Bootcamp DevPro.
+
 Abordado a  construção de projetos utilizando o Framework Django para python no back-end e front-end.
 
 ## Requerimentos:
@@ -14,17 +15,17 @@ Abordado a  construção de projetos utilizando o Framework Django para python n
 ```console
 pip install pipenv
 ```
-- Criar o ambiente virtual na pasta do projeto e instalar os requirements:
-
-Criar o .venv, instalar as dependências e ativar o shell do ambiente virtual:
-```console
-pipenv sync
-pipenv shell
-```
-Instalar somente as dependências de desenvolvimento:
-```console
-pipenv sync -d
-```
+- Criar o ambiente virtual na pasta do projeto e instalar os requirements
+  
+  Criar o .venv, instalar as dependências e ativar o shell do ambiente virtual:
+    ```console
+    pipenv sync
+    pipenv shell
+    ```
+    Instalar somente as dependências de desenvolvimento:
+    ```console
+    pipenv sync -d
+    ```
 ## Verificar qualidade de código:
 ```console
 flake8
