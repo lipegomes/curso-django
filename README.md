@@ -45,6 +45,7 @@ flake8
 9. [Pytest-Mock](https://github.com/pytest-dev/pytest-mock/)
 10. [Django](https://www.djangoproject.com/)
 11. [Heroku](https://devcenter.heroku.com/articles/heroku-cli#download-and-install)
+12. [Pytest-Django](https://pytest-django.readthedocs.io/en/latest/index.html)
 
 ## Licença
 
