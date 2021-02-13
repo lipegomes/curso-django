@@ -36,6 +36,9 @@ flake8
 
 ## Ferramentas utilizadas:
 
+Ambiente virtual:
+1. [Pipenv](https://pipenv.pypa.io/en/latest/)
+
 Framework:
 1. [Django](https://www.djangoproject.com/)
 
@@ -47,15 +50,15 @@ Deploy:
 5. [django-s3-folder-storage](https://github.com/jamstooks/django-s3-folder-storage)
 6. [Collectfast](https://github.com/antonagestam/collectfast)
 
-Testes:
+Testes e qualidade do código:
 1. [PyTest](https://docs.pytest.org/en/stable/)
 2. [PyTest-Cov](https://pytest-cov.readthedocs.io/en/latest/readme.html#installation)
 3. [Pytest-Mock](https://github.com/pytest-dev/pytest-mock/)
 4. [Pytest-Django](https://pytest-django.readthedocs.io/en/latest/index.html)
 
-Qualidade do código:
+Gestão da atualização de dependências:
 1. [PyUp](https://pyup.io/)
-2. [Pipenv](https://pipenv.pypa.io/en/latest/)
+
 
 ## Licença
 
