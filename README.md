@@ -45,6 +45,7 @@ Deploy:
 3. [Heroku](https://devcenter.heroku.com/articles/heroku-cli#download-and-install)
 4. [AWS](https://aws.amazon.com/)
 5. [django-s3-folder-storage](https://github.com/jamstooks/django-s3-folder-storage)
+6. [Collectfast](https://github.com/antonagestam/collectfast)
 
 Testes:
 1. [PyTest](https://docs.pytest.org/en/stable/)
