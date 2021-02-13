@@ -18,7 +18,7 @@ https://pythonprodjangofgomes.herokuapp.com/
 ```console
 pip install pipenv
 ```
-- Criar o ambiente virtual na pasta do projeto e instalar os requirements
+- Criar o ambiente virtual na pasta do projeto e instalar os requirements:
   
   Criar o .venv, instalar as dependências e ativar o shell do ambiente virtual:
     ```console
@@ -46,6 +46,8 @@ flake8
 10. [Django](https://www.djangoproject.com/)
 11. [Heroku](https://devcenter.heroku.com/articles/heroku-cli#download-and-install)
 12. [Pytest-Django](https://pytest-django.readthedocs.io/en/latest/index.html)
+13. [AWS](https://aws.amazon.com/)
+14. [django-s3-folder-storage](https://github.com/jamstooks/django-s3-folder-storage)
 
 ## Licença
 
