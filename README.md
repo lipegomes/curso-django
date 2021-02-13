@@ -35,19 +35,26 @@ flake8
 ```
 
 ## Ferramentas utilizadas:
+
+Framework:
+1. [Django](https://www.djangoproject.com/)
+
+Deploy:
 1. [Git](https://git-scm.com/)
+2. [Travis CLI](https://www.travis-ci.com/)
+3. [Heroku](https://devcenter.heroku.com/articles/heroku-cli#download-and-install)
+4. [AWS](https://aws.amazon.com/)
+5. [django-s3-folder-storage](https://github.com/jamstooks/django-s3-folder-storage)
+
+Testes:
+1. [PyTest](https://docs.pytest.org/en/stable/)
+2. [PyTest-Cov](https://pytest-cov.readthedocs.io/en/latest/readme.html#installation)
+3. [Pytest-Mock](https://github.com/pytest-dev/pytest-mock/)
+4. [Pytest-Django](https://pytest-django.readthedocs.io/en/latest/index.html)
+
+Qualidade do código:
+1. [PyUp](https://pyup.io/)
 2. [Pipenv](https://pipenv.pypa.io/en/latest/)
-4. [Travis CLI](https://www.travis-ci.com/)
-5. [PyUp](https://pyup.io/)
-6. [PyTest](https://docs.pytest.org/en/stable/)
-7. [PyTest-Cov](https://pytest-cov.readthedocs.io/en/latest/readme.html#installation)
-8. [Codecov](https://codecov.io/)
-9. [Pytest-Mock](https://github.com/pytest-dev/pytest-mock/)
-10. [Django](https://www.djangoproject.com/)
-11. [Heroku](https://devcenter.heroku.com/articles/heroku-cli#download-and-install)
-12. [Pytest-Django](https://pytest-django.readthedocs.io/en/latest/index.html)
-13. [AWS](https://aws.amazon.com/)
-14. [django-s3-folder-storage](https://github.com/jamstooks/django-s3-folder-storage)
 
 ## Licença
 
