@@ -60,6 +60,8 @@ Testes e qualidade do código:
 Gestão da atualização de dependências:
 1. [PyUp](https://pyup.io/)
 
+Monitoramento de erros:
+1. [Sentry](https://sentry.io/)
 
 ## Licença
 
