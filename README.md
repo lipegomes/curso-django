@@ -55,6 +55,7 @@ Testes e qualidade do código:
 2. [PyTest-Cov](https://pytest-cov.readthedocs.io/en/latest/readme.html#installation)
 3. [Pytest-Mock](https://github.com/pytest-dev/pytest-mock/)
 4. [Pytest-Django](https://pytest-django.readthedocs.io/en/latest/index.html)
+5. [Django-Debug-Toolbar](https://django-debug-toolbar.readthedocs.io/en/latest/)
 
 Gestão da atualização de dependências:
 1. [PyUp](https://pyup.io/)
